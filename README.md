@@ -1,0 +1,1 @@
+This repo contains R code script and project report for Survival Analysis done on Heart Failure Data. This project was done as part of Bayesian Analysis coursework (MTH535A) under guidance of Prof. Arnab Hazra.
